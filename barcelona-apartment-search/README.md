@@ -13,8 +13,9 @@ Lis dans l'ordre :
 4. [`04-templates.md`](04-templates.md) — emails/messages prêts à copier-coller (FR / EN / ES)
 5. [`05-planning-visites.md`](05-planning-visites.md) — squelette de planning J17 → J20 (5–6 visites/jour)
 6. [`06-checklist-visite.md`](06-checklist-visite.md) — grille d'évaluation à remplir sur place
-7. [`07-dossier-locataire-nie.md`](07-dossier-locataire-nie.md) — pièces à fournir + démarche NIE + aval bancaire
+7. [`07-dossier-locataire-nie.md`](07-dossier-locataire-nie.md) — pièces à fournir + démarche NIE (overview) + aval bancaire
 8. [`08-action-plan.md`](08-action-plan.md) — to-do J-X jusqu'au 17 mai
+9. [`09-nie-guide-detaille.md`](09-nie-guide-detaille.md) — **guide pas-à-pas** pour obtenir le NIE depuis la France
 
 Automatisations dans [`automatisations/`](automatisations/) :
 

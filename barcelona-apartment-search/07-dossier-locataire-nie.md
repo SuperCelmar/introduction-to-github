@@ -86,6 +86,10 @@ Hecho en [ciudad], el [fecha]
 
 ## NIE — Numéro d'identification d'étranger
 
+> 📖 **Pour le pas-à-pas opérationnel** (formulaires, taxe, RDV consulat,
+> documents, déroulement du RDV) → voir [`09-nie-guide-detaille.md`](09-nie-guide-detaille.md).
+> Le présent fichier ne couvre que la vue d'ensemble.
+
 ### Faut-il l'avoir avant le bail ?
 
 - **Pas strictement obligatoire** pour signer un bail privé : le passeport
