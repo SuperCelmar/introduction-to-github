@@ -40,7 +40,7 @@ USER = {
     "garante_revenu": 5000,
     "loyer_min": 1000,
     "loyer_max": 1300,
-    "move_in": "20 au 31 mai",
+    "move_in": "20 et le 31 mai",
     "voyage": "17 au 20 mai",
     "duree_vie_mois": 12,
 }
@@ -70,13 +70,15 @@ Entreprise, contrat sponsorisé par l'État français).
 
 Je recherche un studio meublé avec climatisation, budget {USER['loyer_min']}–{USER['loyer_max']}
 €/mois charges incluses, idéalement à Eixample, Gràcia, Sant Antoni ou Poblenou,
-pour une prise de possession entre le {USER['move_in']}.
+pour une prise de possession entre le {USER['move_in']}. Je privilégie un
+contrat d'arrendamiento de vivienda habitual (12 mois ou plus).
 
 Mon dossier locataire :
 - Indemnité VIE : {USER['vie_min']}–{USER['vie_max']} €/mois nets, contrat ferme de 12 mois
 - Garante : ma mère, revenus ≈ {USER['garante_revenu']} €/mois nets, capable de signer un aval
 - Documents disponibles immédiatement : contrat VIE, bulletins de salaire de
   la garante, avis d'imposition, pièce d'identité
+- RDV NIE confirmé au consulat espagnol le 21 mai (justificatif disponible)
 - Aval bancaire (3–6 mois bloqués) possible si nécessaire
 
 Je serai à Barcelone du {USER['voyage']} et je peux organiser des visites en
@@ -102,12 +104,14 @@ VIE contract (a French state-sponsored international employment program).
 
 I'm looking for a furnished studio with air conditioning, budget €{USER['loyer_min']}–{USER['loyer_max']}/month
 all included, preferably in Eixample, Gràcia, Sant Antoni or Poblenou, with a
-move-in date between May 20 and 31.
+move-in date between May 20 and 31. I'd prefer a habitual residence lease
+(12+ months) over a temporada contract.
 
 My tenant profile:
 - VIE allowance: €{USER['vie_min']}–{USER['vie_max']}/month net, fixed 12-month contract
 - Guarantor: my mother, ≈ €{USER['garante_revenu']}/month net income, ready to co-sign
 - Documents ready: VIE contract, guarantor's payslips, tax return, ID
+- NIE appointment confirmed at the Spanish consulate on May 21 (proof available)
 - Bank guarantee (3–6 months deposit) possible if required
 
 I'll be in Barcelona May 17–20. I can attend viewings any time during these 4 days.
@@ -133,13 +137,15 @@ por el Estado).
 
 Busco un estudio amueblado con aire acondicionado, presupuesto {USER['loyer_min']}–{USER['loyer_max']}
 €/mes gastos incluidos, preferentemente en Eixample, Gràcia, Sant Antoni o Poblenou,
-con entrada entre el 20 y el 31 de mayo.
+con entrada entre el 20 y el 31 de mayo. Prefiero un contrato de arrendamiento
+de vivienda habitual (12 meses o más) en lugar de temporada.
 
 Mi perfil:
 - Asignación VIE: {USER['vie_min']}–{USER['vie_max']} €/mes netos, contrato fijo 12 meses
 - Avalista: mi madre, ingresos ≈ {USER['garante_revenu']} €/mes netos
 - Documentos listos: contrato VIE, nóminas de mi avalista, declaración de la
   renta, DNI
+- Cita previa NIE confirmada en el consulado español el 21 de mayo (justificante disponible)
 - Aval bancario (3–6 meses) posible si es necesario
 
 Estaré en Barcelona del 17 al 20 de mayo. ¿Tendrían algún piso que pudiera

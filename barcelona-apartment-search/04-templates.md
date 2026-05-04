@@ -21,13 +21,15 @@ français).
 
 Je recherche un **studio meublé avec climatisation**, budget **1000–1300 €/mois
 charges incluses**, idéalement à Eixample, Gràcia, Sant Antoni ou Poblenou,
-pour une **prise de possession entre le 20 et le 31 mai**.
+pour une **prise de possession entre le 20 et le 31 mai**. Je privilégie un
+**contrato de arrendamiento de vivienda habitual** (12 mois ou plus).
 
 **Mon dossier locataire** :
 - Indemnité VIE : **2500–3000 €/mois nets**, contrat ferme de 12 mois
 - **Garante** : ma mère, revenus ≈ 5000 €/mois nets, capable de signer un aval
 - Documents disponibles immédiatement : contrat VIE, bulletins de salaire de
   la garante, avis d'imposition, pièce d'identité
+- **RDV NIE** confirmé au consulat espagnol le **21 mai** (justificatif disponible)
 - Aval bancaire (3–6 mois bloqués) possible si nécessaire
 
 Je serai à Barcelone du **17 au 20 mai** et je peux organiser des visites en
@@ -55,12 +57,15 @@ state-sponsored international internship/employment program).
 
 I'm looking for a **furnished studio with air conditioning**, budget
 **€1,000–1,300/month all included**, preferably in Eixample, Gràcia, Sant
-Antoni or Poblenou, with a **move-in date between May 20 and 31**.
+Antoni or Poblenou, with a **move-in date between May 20 and 31**. I'd
+prefer a **habitual residence lease** (12+ months) rather than a
+temporada contract.
 
 **My tenant profile**:
 - VIE allowance: **€2,500–3,000/month net**, fixed 12-month contract
 - **Guarantor**: my mother, ≈ €5,000/month net income, ready to co-sign
 - Documents ready: VIE contract, guarantor's payslips, tax return, ID
+- **NIE appointment** confirmed at the Spanish consulate on **May 21** (proof available)
 - Bank guarantee (3–6 months deposit) possible if required
 
 I'll be in Barcelona from **May 17 to 20**. I can attend viewings any time
@@ -89,12 +94,15 @@ Me llamo Florent Lin, tengo 24 años y me incorporo a la empresa Hello Pomelo
 Busco un **estudio amueblado con aire acondicionado**, presupuesto
 **1.000–1.300 €/mes gastos incluidos**, preferentemente en Eixample, Gràcia,
 Sant Antoni o Poblenou, con **entrada entre el 20 y el 31 de mayo**.
+Prefiero un **contrato de arrendamiento de vivienda habitual** (12 meses
+o más) en lugar de temporada.
 
 **Mi perfil**:
 - Asignación VIE: **2.500–3.000 €/mes netos**, contrato fijo 12 meses
 - **Avalista**: mi madre, ingresos ≈ 5.000 €/mes netos
 - Documentos listos: contrato VIE, nóminas de mi avalista, declaración de la
   renta, DNI
+- **Cita previa NIE** confirmada en el consulado español el **21 de mayo** (justificante disponible)
 - Aval bancario (3–6 meses) posible si es necesario
 
 Estaré en Barcelona del **17 al 20 de mayo**. ¿Tendrían algún piso que pudiera

@@ -1,21 +1,21 @@
 id,nom_agence,prenom_agent,email,langue,site,form_url,tier,quartier_focus,statut,date_envoi,notes
-1,ShBarcelona,,info@shbarcelona.com,fr,https://www.shbarcelona.com,,1,Toute la ville,,,Expat-friendly FR/EN/ES — verifier email
-2,Apartment Barcelona,,info@apartmentbarcelona.com,en,https://www.apartmentbarcelona.com,,1,Toute la ville,,,Meuble moyen/long terme
-3,Barcelona Home,,info@barcelona-home.com,fr,https://www.barcelona-home.com,,1,Toute la ville,,,Multilingue FR/EN/ES/DE
-4,Friendly Rentals,,info@friendlyrentals.com,en,https://www.friendlyrentals.com,,1,Toute la ville,,,Meuble qualite EN
-5,aTemporal Barcelona,,info@atemporalbarcelona.es,en,https://www.atemporalbarcelona.es,,1,Toute la ville,,,Meuble temporada multilingue
-6,HomeRunner BCN,,info@homerunner.com,en,https://www.homerunner.com,,1,Toute la ville,,,Long terme expat EN
-7,Eixample Flats,,info@eixampleflats.com,en,https://www.eixampleflats.com,,1,Eixample,,,Specialiste Eixample meuble
-8,Lasose Properties,,info@lasose.com,fr,https://www.lasose.com,,1,Toute la ville,,,Relocation expat FR/EN
-9,Engel & Volkers Eixample,,barcelona-eixample@engelvoelkers.com,en,https://www.engelvoelkers.com,,2,Eixample,,,A confirmer email exact bureau Eixample
-10,Lucas Fox Barcelona,,info@lucasfox.com,en,https://www.lucasfox.com,,2,Eixample/Gracia,,,Premium meuble anglophone
-11,Fincas Eva,,info@fincaseva.com,en,https://www.fincaseva.com,,2,Eixample/Gracia,,,Local equipe anglophone
-12,Casamona,,info@casamona.com,en,https://www.casamona.com,,2,Toute la ville,,,Long terme + meuble EN/FR
-13,Habitat Apartments,,info@habitatapartments.com,en,https://www.habitatapartments.com,,2,Toute la ville,,,Meuble moyen/long terme
-14,Smart Move BCN,,info@smartmovebcn.com,en,https://smartmovebcn.com,,2,Toute la ville,,,Search + relocation expat
-15,Vivendex,,info@vivendex.com,es,https://www.vivendex.com,,2,Toute la ville,,,Reseau local gros volume
-16,Forcadell,,particulares@forcadell.com,es,https://www.forcadell.com,,2,Toute la ville,,,Long terme serieux
-17,Tecnocasa Eixample,,bce035@tecnocasa.es,es,https://www.tecnocasa.es,,2,Eixample,,,Verifier code agence local Eixample
-18,Tour Eiffel Immobilier BCN,,,fr,,,3,Toute la ville,,,A retrouver email — francophones
-19,French Connection BCN,,,fr,,,3,Toute la ville,,,A retrouver — reseau expats FR
-20,CCFE Barcelone (annuaire),,info@lachambre.es,fr,https://www.lachambre.es,,3,Toute la ville,,,Demander annuaire agences francophones
+1,ShBarcelona,,info@shbarcelona.com,fr,https://www.shbarcelona.com,https://www.shbarcelona.com/contact,1,Toute la ville,,,Expat-friendly FR/EN/ES — email a verifier
+2,Apartment Barcelona,,info@apartmentbarcelona.com,en,https://www.apartmentbarcelona.com,https://www.apartmentbarcelona.com/contact-us,1,Toute la ville,,,Meuble moyen/long terme — tel +34 934 813 577
+3,Barcelona Home,,info@barcelona-home.com,fr,https://www.barcelona-home.com,https://www.barcelona-home.com/en/contact,1,Toute la ville,,,Multilingue FR/EN/ES/DE
+4,Friendly Rentals,,info@friendlyrentals.com,en,https://www.friendlyrentals.com,https://www.friendlyrentals.com/contact-us,1,Toute la ville,,,Meuble qualite EN
+5,aTemporal Barcelona,,info@atemporalbarcelona.es,en,https://www.atemporalbarcelona.es,https://www.atemporalbarcelona.es/en/contact,1,Toute la ville,,,Meuble temporada multilingue
+6,HomeRunner BCN,,info@homerunner.com,en,https://www.homerunner.com,https://www.homerunner.com/contact,1,Toute la ville,,,Long terme expat EN
+7,Eixample Flats,,info@eixampleflats.com,en,https://www.eixampleflats.com,https://www.eixampleflats.com/contact,1,Eixample,,,Specialiste Eixample meuble
+8,Lasose Properties,,info@lasose.com,fr,https://www.lasose.com,https://www.lasose.com/contact,1,Toute la ville,,,Relocation expat FR/EN
+9,Engel & Volkers Barcelona,,barcelona@engelvoelkers.com,en,https://www.engelvoelkers.com,https://www.engelvoelkers.com/en-es/barcelona/contact/,2,Eixample,,,Bureau Eixample : passer en personne Av. Diagonal
+10,Lucas Fox Barcelona,,info@lucasfox.com,en,https://www.lucasfox.com,https://www.lucasfox.com/contact,2,Eixample/Gracia,,,Premium meuble anglophone
+11,Fincas Eva,,info@fincaseva.com,en,https://www.fincaseva.com,https://www.fincaseva.com/contact,2,Eixample/Gracia,,,Local equipe anglophone
+12,Casamona,,info@casamona.com,en,https://www.casamona.com,https://www.casamona.com/contact,2,Toute la ville,,,Long terme + meuble EN/FR
+13,Habitat Apartments,,reservations@habitatapartments.com,en,https://www.habitatapartments.com,https://www.habitatapartments.com/contact,2,Toute la ville,,,Meuble moyen/long terme
+14,Smart Move BCN,,info@smartmovebcn.com,en,https://smartmovebcn.com,https://smartmovebcn.com/contact,2,Toute la ville,,,Search + relocation expat
+15,Vivendex,,info@vivendex.com,es,https://www.vivendex.com,https://www.vivendex.com/contacto,2,Toute la ville,,,Reseau local gros volume
+16,Forcadell Alquileres,,particulares@forcadell.com,es,https://www.forcadell.com,https://www.forcadell.com/contacto,2,Toute la ville,,,Long terme serieux
+17,Tecnocasa Eixample,,,es,https://www.tecnocasa.es,https://www.tecnocasa.es/oficinas-inmobiliarias-barcelona-08-eixample,2,Eixample,,,Plusieurs codes agence par rue — choisir bureau le + proche
+18,InmoBarcelona,,info@inmobarcelona.com,es,https://www.inmobarcelona.com,https://www.inmobarcelona.com/contacto,2,Toute la ville,,,Local Barcelone — verifier email
+19,Vivirenbarcelona (Tour Eiffel),,,fr,,,3,Toute la ville,,,Recherche francophone — chercher contact via CCFE
+20,CCFE Barcelone (annuaire),,delegacion@lachambre.es,fr,https://www.lachambre.es,https://www.lachambre.es/contact,3,Toute la ville,,,Demander annuaire agences francophones BCN
