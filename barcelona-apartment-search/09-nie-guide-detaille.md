@@ -132,14 +132,70 @@ Le formulaire est en espagnol. Voici les champs critiques :
 l'adresse française pour réception du courrier de notification.
 
 #### Section 4 — DATOS RELATIVOS A LA SOLICITUD
-- ☑ **ASIGNACIÓN DE NÚMERO DE IDENTIDAD DE EXTRANJERO (NIE)**
-- *Motivos por los que solicita el N.I.E.* :
-  > **"Inicio de actividad laboral en España bajo contrato VIE
-  > (Volontariat International en Entreprise) en la empresa Hello Pomelo,
-  > sita en Carrer de Mallorca 100, 08013 Barcelona, con fecha de inicio
-  > el 1 de junio de 2026. Se requiere el NIE para la firma del contrato
-  > de trabajo, apertura de cuenta bancaria, contrato de alquiler y
-  > obligaciones fiscales."**
+
+**Cases du haut**
+- ☑ **ASIGNACIÓN DE NÚMERO DE IDENTIDAD DE EXTRANJERO (NIE)** ← coche celle-ci (1ère demande)
+- ☐ EXPEDICIÓN DE CERTIFICADO DE NIE (laisser vide, c'est pour les renouvellements)
+
+**Sous-section 4.x — Motivos por los que solicita el NIE**
+
+⚠️ **Piège important à connaître** : tous les motifs listés par les guides
+officiels des consulats (Lyon, Paris, etc.) sont prévus pour des **séjours
+≤ 3 mois**. Le NIE consulaire est juridiquement conçu pour les courts
+séjours. Pour un séjour > 3 mois, l'Espagne attend que tu fasses un
+**CUE** (`Certificado de Registro de Ciudadano de la Unión`) directement à
+Barcelone une fois sur place.
+
+➡️ Si tu écris *"contrato VIE de 12 meses"*, l'agent peut **refuser**
+ta demande et te rediriger vers le CUE en Espagne.
+
+**Solution recommandée** : déclarer un motif administratif court qui est
+**vrai** et **suffisant** pour obtenir le NIE, sans évoquer la durée du VIE.
+Une fois le NIE attribué, c'est juste un numéro fiscal réutilisable pour
+tout le reste (contrat de travail, fiscalité, sécu, etc.).
+
+##### ✅ Choix recommandé
+
+- ☑ Cocher **`Económicos`** *(uniquement)*
+- *Motif (en espagnol, court)* :
+  > **Apertura de cuenta bancaria en España y firma de contrato de arrendamiento de vivienda en Barcelona.**
+
+Pourquoi c'est le bon choix :
+- Correspond à **deux** motifs explicitement listés par le guide Lyon
+  (`Apertura de cuenta bancaria` + `Gestiones administrativas/bancarias`)
+- **Vrai** : tu vas effectivement ouvrir un compte et signer un bail
+- N'évoque pas la durée du VIE → ne déclenche pas la question CUE
+- Court, neutre, sans ambiguïté
+
+##### Variantes selon ton appétence au risque
+
+| Niveau | Motif | Risque | Bénéfice |
+|---|---|---|---|
+| 🟢 Sûr (recommandé) | *Apertura de cuenta bancaria en España y firma de contrato de arrendamiento de vivienda en Barcelona.* | Très faible | NIE délivré sans question |
+| 🟡 Hybride | *Apertura de cuenta bancaria, firma de contrato de arrendamiento y formalización de prácticas profesionales en Barcelona.* | Faible (le mot *prácticas* peut ouvrir la porte aux questions) | Transparence partielle |
+| 🔴 Transparent | *Inicio de actividad laboral bajo contrato VIE de 12 meses con la empresa Hello Pomelo.* | Élevé : refus probable, redirigé vers CUE | Honnêteté complète mais inutile |
+
+##### Si l'agent te pose des questions au RDV
+
+Tu peux honnêtement compléter à l'oral :
+
+> *"Voy a Barcelona del 17 al 20 de mayo para alquilar un piso, y necesito el NIE para abrir la cuenta bancaria y firmar el contrato de alquiler. Solicitaré el certificado de registro como ciudadano UE en Barcelona después de mi instalación."*
+
+Cohérent, légal, et exactement ce que tu vas faire en pratique. Mentionner
+le CUE après → l'agent voit que tu connais la procédure et tu rassures.
+
+##### La suite du parcours en Espagne
+
+Le **NIE consulaire** et le **CUE** attribuent **le même numéro**. Une fois
+à Barcelone, tu compléteras :
+
+| Étape | Quand | Où |
+|---|---|---|
+| Empadronamiento | Juillet (après bail signé) | Mairie d'arrondissement |
+| CUE — `Certificado de Registro UE` | Juillet–août | Oficina de Extranjería Barcelona (cita previa) — papier vert A4 |
+| TIE physique (optionnelle) | Si tu veux une carte plastique | Idem |
+
+Le CUE régularise officiellement ton statut > 3 mois en confirmant ton NIE.
 
 #### Section 5 — Firma + Lugar y fecha
 → Ne signe **PAS à l'avance**. Tu signeras au consulat devant l'agent.
@@ -204,18 +260,35 @@ Réunis dans un **dossier physique** :
       / attestation hébergement, < 3 mois)
 - [ ] **Paiement** : chèque ou liquide 9,84 €
 
-### Spécifiques au motif "professionnel" (essentiels pour toi)
+### Spécifiques au motif "Económicos" (recommandé)
+
+Avec le motif *"Apertura de cuenta bancaria + firma de contrato de
+arrendamiento"*, **aucun justificatif n'est strictement obligatoire** —
+le motif est court, vrai, et suffit en lui-même.
+
+Optionnel mais utile à avoir dans le dossier au cas où l'agent demande :
+
+- [ ] **Capture d'écran ou email d'une banque espagnole** (HolaBank
+      CaixaBank, BBVA, Santander) confirmant ta démarche d'ouverture de
+      compte. Tu peux pré-ouvrir un compte non-résident en ligne en 5 min
+      sur le site CaixaBank (HolaBank) — tu auras un email de
+      confirmation à imprimer.
+- [ ] **Captures d'écran d'annonces Idealista / Habitaclia** que tu as
+      contactées (preuve de recherche de logement à Barcelone).
+
+### Si l'agent insiste pour un motif "Profesional" / VIE
+
+Backup au cas (rare) où il refuse le motif court et te pousse vers un
+motif professionnel :
 
 - [ ] **Contrat VIE / lettre d'embauche Hello Pomelo** (original + copie)
-- [ ] **Attestation Business France** confirmant ta mission VIE (à demander
-      à ton chargé Business France)
-- [ ] **Lettre du tuteur entreprise** (Hello Pomelo) précisant : titre du
-      poste, durée, salaire, date d'embauche, adresse de Hello Pomelo en
-      Espagne — en **espagnol** de préférence (ou bilingue FR/ES)
+- [ ] **Attestation Business France** confirmant ta mission VIE
+- [ ] **Lettre du tuteur entreprise** Hello Pomelo en espagnol sur papier
+      en-tête, signée et tamponnée
 
-> 💡 **Astuce** : demande à Hello Pomelo de te fournir cette lettre **en
-> espagnol** sur papier en-tête, signée et tamponnée. Cela rassure
-> immédiatement l'agent du consulat.
+> 💡 Demande quand même ces 3 documents à Hello Pomelo / Business France :
+> ils te seront utiles à Barcelone (CUE, ouverture de compte définitif,
+> empadronamiento), même si tu ne les utilises pas au consulat.
 
 ### Pièces annexes utiles (au cas où)
 
@@ -286,11 +359,20 @@ Le NIE arrive sous forme de **resolución** PDF/papier avec :
 
 ## Astuces, pièges, FAQ
 
+### "Pourquoi ne pas déclarer mon contrat VIE comme motif ?"
+
+Parce que les motifs prévus par les guides officiels des consulats français
+sont tous pour des séjours **≤ 3 mois** (cf. guide Lyon : *"Contrato de
+trabajo temporal de menos de 3 meses"*). Un contrat VIE de 12 mois fait
+basculer dans la procédure **CUE** (`Certificado de Registro UE`) qui se
+demande **en Espagne**, pas au consulat. Risque de refus si tu mentionnes la
+durée. Préfère un motif court (compte bancaire + bail), tout aussi vrai et
+sûr.
+
 ### "Je n'ai pas encore le contrat VIE signé, puis-je quand même demander le NIE ?"
 
-Oui, **avec une lettre d'engagement Business France** + lettre Hello Pomelo
-sur papier en-tête confirmant l'embauche. La lettre Hello Pomelo seule
-suffit dans 90 % des cas.
+Oui, et c'est même mieux : avec le motif recommandé "Económicos" (ouverture
+de compte + bail), tu n'as **pas besoin** de présenter le contrat VIE.
 
 ### "Je n'ai pas d'adresse en Espagne, dois-je en mettre une ?"
 
@@ -337,7 +419,7 @@ quand tu auras une adresse confirmée et l'empadronamiento.
 |---|---|
 | Aucun créneau dans aucun consulat | Gestor en France OU à Barcelone |
 | RDV après 1er juin | Faire NIE à Barcelone via gestor à l'arrivée |
-| Refus pour motif insuffisant | Compléter dossier avec lettre Business France |
+| Refus pour motif insuffisant | Reformuler avec motif court "Económicos" (compte + bail) ; en backup, sortir contrat VIE + lettre Business France |
 | Pas le temps avant les visites du 17 mai | Aller aux visites avec **passeport seul** + **justificatif de cita previa** comme preuve de bonne foi |
 
 > 🎯 **Bon à savoir** : pour louer ton appart le 17–20 mai, tu **n'as pas
@@ -347,19 +429,22 @@ quand tu auras une adresse confirmée et l'empadronamiento.
 
 ---
 
-## TL;DR — ce que tu fais aujourd'hui
+## TL;DR — ce que tu fais avant le RDV
 
-1. Identifie **ton consulat** (selon département de résidence FR)
-2. Va sur le portail `cita previa` → prends le **premier créneau dispo**
-3. **Imprime** le justificatif de RDV
-4. Demande à **Hello Pomelo** une lettre d'embauche **en espagnol** sur
-   papier en-tête + à **Business France** une attestation VIE
-5. Télécharge **EX-15** + génère **modelo 790-012** (mais ne paie pas encore)
-6. Bloque 1h dans ton agenda 24 h avant le RDV pour relire/imprimer
-
-Si tu me dis dans quel **département / ville française** tu vis, je peux te
-donner :
-- Le lien direct exact du système de RDV de **ton** consulat
-- Le délai constaté actuel (créneaux disponibles)
-- Les particularités locales (ex. Lyon impose le paiement bancaire à
-  l'avance, Paris non)
+1. **Cita previa prise au 21 mai** ✅
+2. Imprime le **justificatif de RDV** (à glisser aussi dans ton dossier
+   locataire papier pour les visites du 17–20 mai)
+3. Télécharge le **PDF EX-15** et remplis-le **sans signer** :
+   - Section 4 : coche **`Económicos`**
+   - Motif : *"Apertura de cuenta bancaria en España y firma de contrato
+     de arrendamiento de vivienda en Barcelona."*
+4. Génère le **modelo 790-012** (9,84 €) sur le portail Policía, **3 copies
+   imprimées** (paiement au consulat le jour du RDV)
+5. (Optionnel mais utile) Pré-ouvre un compte non-résident **HolaBank
+   (CaixaBank)** en ligne → email de confirmation à imprimer comme preuve
+   du motif "compte bancaire"
+6. (Backup) Demande quand même à Hello Pomelo une lettre en espagnol +
+   à Business France une attestation VIE — utile en Espagne pour le CUE,
+   et en sécurité au consulat si jamais l'agent insiste pour un motif pro
+7. Bloque 1 h dans ton agenda 24 h avant le RDV pour relire / imprimer
+   l'ensemble
