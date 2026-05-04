@@ -16,6 +16,7 @@ Lis dans l'ordre :
 7. [`07-dossier-locataire-nie.md`](07-dossier-locataire-nie.md) — pièces à fournir + démarche NIE (overview) + aval bancaire
 8. [`08-action-plan.md`](08-action-plan.md) — to-do J-X jusqu'au 17 mai
 9. [`09-nie-guide-detaille.md`](09-nie-guide-detaille.md) — **guide pas-à-pas** pour obtenir le NIE depuis la France
+10. [`10-procedures-agences-bcn.md`](10-procedures-agences-bcn.md) — fonctionnement des agences à Barcelone (frais, visites, arras, INCASOL)
 
 Automatisations dans [`automatisations/`](automatisations/) :
 
